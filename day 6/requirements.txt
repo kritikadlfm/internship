@@ -1,0 +1,41 @@
+# Core Framework
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# Providers
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+langchain-huggingface
+
+# Official SDKs
+openai
+groq
+google-generativeai
+mistralai
+
+# Vector DB / Embeddings
+faiss-cpu
+chromadb
+tiktoken
+
+# Utilities
+python-dotenv
+pydantic
+requests
+httpx
+
+# Backend
+fastapi
+uvicorn
+
+# Data Handling
+numpy
+pandas
+
+# Notebook Support
+jupyter
+ipykernel

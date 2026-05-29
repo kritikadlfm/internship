@@ -1,0 +1,8 @@
+
+    Weather Report
+    -------------------
+    City: Jaipur
+    Temperature: 37.62°C
+    Humidity: 13%
+    Weather: haze
+    
