@@ -1,0 +1,131 @@
+
+# Machine Learning (ML) and Deep Learning (DL) Notes
+
+## 1. Machine Learning (ML)
+Machine Learning is a subset of Artificial Intelligence that enables systems to learn from data and improve performance without being explicitly programmed.
+
+### Types of Machine Learning
+1. Supervised Learning
+   - Uses labeled data.
+   - Examples: Linear Regression, Logistic Regression, SVM, Decision Trees.
+
+2. Unsupervised Learning
+   - Uses unlabeled data.
+   - Examples: K-Means Clustering, PCA.
+
+3. Reinforcement Learning
+   - Agent learns through rewards and penalties.
+   - Examples: Game-playing AI, Robotics.
+
+### ML Workflow
+- Data Collection
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Evaluation
+- Deployment
+
+### Common Algorithms
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- KNN
+- SVM
+- Naive Bayes
+
+### Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+- Mean Squared Error (MSE)
+
+### Advantages
+- Easier to train than deep learning.
+- Works well with structured data.
+- Requires less computational power.
+
+### Limitations
+- Performance depends on feature engineering.
+- Struggles with highly complex data.
+
+---
+
+## 2. Deep Learning (DL)
+Deep Learning is a subset of Machine Learning based on Artificial Neural Networks with multiple hidden layers.
+
+### Neural Network Components
+- Input Layer
+- Hidden Layers
+- Output Layer
+- Weights and Biases
+- Activation Functions
+
+### Popular Activation Functions
+- ReLU
+- Sigmoid
+- Tanh
+- Softmax
+
+### Types of Deep Learning Networks
+1. ANN (Artificial Neural Networks)
+2. CNN (Convolutional Neural Networks)
+3. RNN (Recurrent Neural Networks)
+4. LSTM
+5. Transformer Models
+
+### Deep Learning Workflow
+- Data Collection
+- Data Preprocessing
+- Model Design
+- Training
+- Validation
+- Testing
+- Deployment
+
+### Advantages
+- Excellent for images, audio, and text.
+- Learns features automatically.
+- High accuracy on large datasets.
+
+### Limitations
+- Requires large datasets.
+- Computationally expensive.
+- Less interpretable.
+
+---
+
+## ML vs DL Comparison
+
+| Aspect | ML | DL |
+|----------|----------|----------|
+| Data Requirement | Small to Medium | Large |
+| Feature Engineering | Manual | Automatic |
+| Training Time | Faster | Slower |
+| Hardware | CPU | GPU/TPU |
+| Interpretability | Higher | Lower |
+| Best For | Structured Data | Images, Audio, NLP |
+
+## Applications
+### ML
+- Spam Detection
+- Recommendation Systems
+- Fraud Detection
+- Sales Prediction
+
+### DL
+- Image Recognition
+- Speech Recognition
+- Chatbots
+- Autonomous Vehicles
+
+## Important Interview Questions
+1. Difference between AI, ML, and DL.
+2. Bias-Variance Tradeoff.
+3. Overfitting vs Underfitting.
+4. What is Gradient Descent?
+5. What are CNNs and RNNs?
+6. What is Backpropagation?
+7. Explain Precision and Recall.
